@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 7.89
+    },
+    {
+      "id": 2,
+      "name": "Mac Book PRO",
+      "price": 12
+    },
+    {
+      "name": "Samsumg Pro+",
+      "price": "7000,98",
+      "id": 3
+    },
+    {
+      "name": "Mouse",
+      "price": "15",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1013.99",
+      "id": 5
+    }
+  ]
+}
